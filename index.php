@@ -20,7 +20,7 @@ $osztaly = array(
 
 <body>
     <div>
-        <h1> 13. I. 1. csoport</h1>
+        <h1> 13. I. 1.csoport</h1>
         <h2> Ülésrend</h2>
     </div>
     <table class="table table-striped">
