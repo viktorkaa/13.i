@@ -27,7 +27,7 @@ $osztaly = array(
         <thead>
             <tr>
                 <th scope="col">#</th>
-                <th scope="col">Első Oszlop</th>
+                <th scope="col">Elsőaaaaaaaaaaaa Oszlop</th>
                 <th scope="col">Második Oszlop</th>
                 <th scope="col">Folyosó</th>
                 <th scope="col">Harmadik Oszlop</th>
